@@ -74,7 +74,7 @@ I build practical tools and web applications, with a strong focus on vulnerabili
 - Features: TCP Port Scanning, Risk Classification, Exposed Endpoint Detection, HTTP Security Headers Analysis, Scan History Dashboard, PDF Report Export
 - Deploy: Render (Backend) + Vercel (Frontend)
 
-🔗 **Repository**: [Scanner-Pro](https://github.com/Samusoares7/Scanner-Pro) 
+🔗 **Repository**: [Scanner](https://github.com/Samusoares7/Scanner) 
 
 ---
 
