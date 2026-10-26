@@ -24,17 +24,6 @@ I build practical tools and web applications, with a strong focus on vulnerabili
 </p>
 
 ---
-
-## 🧠 What I do
-
-- 🔍 Building security auditing tools (Port Scanner, vulnerability analysis)
-- 🌐 Developing full-stack web applications with modern technologies
-- 🛡️ Studying and practicing cybersecurity and network defense
-- 📡 Learning TCP/IP, OSI Model, routing, and infrastructure
-- 🧪 Hands-on experience with Linux, Windows, and monitoring tools
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
@@ -45,12 +34,6 @@ I build practical tools and web applications, with a strong focus on vulnerabili
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Backend & Tools
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FF4D4D?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-FF6F00?style=for-the-badge&logo=anthropic&logoColor=white)
-![API Development](https://img.shields.io/badge/API-REST%20%26%20GraphQL-6E40FF?style=for-the-badge)
 
 ### Security & Networking
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -61,20 +44,6 @@ I build practical tools and web applications, with a strong focus on vulnerabili
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-007FFF?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Cybersecurity](https://img.shields.io/badge/CyberSecurity-4A6FD3?style=for-the-badge&logo=shield&logoColor=blue)
-
----
-
-## 🚀 Featured Project
-
-### Scanner de Portas
-**Security auditing web tool** developed for personal environments.
-
-- **Backend**: FastAPI + SQLAlchemy + SQLite + JWT Authentication
-- **Frontend**: Vue.js 3 + Vite + Axios
-- Features: TCP Port Scanning, Risk Classification, Exposed Endpoint Detection, HTTP Security Headers Analysis, Scan History Dashboard, PDF Report Export
-- Deploy: Render (Backend) + Vercel (Frontend)
-
-🔗 **Repository**: [Scanner](https://github.com/Samusoares7/Scanner) 
 
 ---
 
